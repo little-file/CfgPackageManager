@@ -1,0 +1,8 @@
+Flatpak:
+  Mirrors: 
+  - flathub: https://dl.flathub.org/repo/flathub.flatpakrepo
+  - name: https://example.com/example.faltpakrepo
+
+  Apps:
+  - io.podman_desktop.PodmanDesktop
+  - com.example.exemaple
